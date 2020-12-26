@@ -1,10 +1,6 @@
-
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkorany-lee&count_bg=%23823FCB&title_bg=%23CCB7E5&icon=&icon_color=%23B22A2A&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-
-### Hi there 👋
-
+![bio](https://github.com/korany-lee/korany-lee/blob/main/info.gif?raw=true)
 <!--
 **korany-lee/korany-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
