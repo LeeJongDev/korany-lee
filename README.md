@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=korany-lee&label=views&style=plastic&color=blue)
 
-![bio](https://github.com/korany-lee/korany-lee/blob/main/info.gif?raw=true)
+![bio](https://github.com/korany-lee/korany-lee/blob/main/intro.gif?raw=true)
 <!--
 **korany-lee/korany-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
